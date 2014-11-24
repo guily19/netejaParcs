@@ -30,6 +30,22 @@
             android:name="com.example.guillem.netejaparcs.NewPark"
             android:label="@string/title_activity_new_park" >
         </activity>
+        <activity
+            android:name="com.example.guillem.netejaparcs.util.parckEdition"
+            android:label="@string/title_activity_parck_edition" >
+        </activity>
+        <activity
+            android:name="com.example.guillem.netejaparcs.editParck"
+            android:label="@string/title_activity_edit_parck" >
+        </activity>
+        <activity
+            android:name="com.example.guillem.netejaparcs.CleanParck"
+            android:label="@string/title_activity_clean_parck" >
+        </activity>
+        <activity
+            android:name="com.example.guillem.netejaparcs.DeleteParck"
+            android:label="@string/title_activity_delete_parck" >
+        </activity>
     </application>
 
 </manifest>
